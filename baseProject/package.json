@@ -1,0 +1,15 @@
+{
+  "name": "node-course-base",
+  "version": "1.0.0",
+  "description": "follow node.js online course while studying",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pochara Sangtunchai",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
